@@ -1,0 +1,22 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Mario Mario"
+    },
+    {
+      "id": 2,
+      "name": "Mario Luigi"
+    },
+    {
+      "id": 3,
+      "name": "Wario Mario"
+    },
+    {
+      "id": 4,
+      "name": "Waluigi Wario"
+    }
+  ],
+  "completions": [],
+  "requests": []
+}
